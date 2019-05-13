@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/resources/views/JMTHEME/layouts/site.blade.php" line="2" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="321c2357-1901-4a5f-9371-8a78a10d345d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.env.example" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/JMBlogs.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Categorie.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Comment.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Events/Event.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/HMenu.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/MspostController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/PortfolioController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Jobs/Job.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Listeners/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Mspost.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Pfilter.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Policies/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Portpholio.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/CommentRepositories.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/HMenuRepositories.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/MspostRepositories.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/PortpholioRepositories.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/Repository.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/SliderRepositorys.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Slider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/artisan" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/auth.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/cache.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/compile.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/filesystems.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/laravel-menu/settings.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/laravel-menu/views.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/mail.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/queue.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/services.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/session.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/settings.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/view.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/factories/ModelFactory.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_084709_CreateMSPostsTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_085607_CreatePortpholiosTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_090302_CreatePfiltersTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_090605_CreateCommentsTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_091416_CreateSlidersTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_091658_CreateHeadMenusTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_091910_CreateCategoriesTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_092834_ChangeMSPostsTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_100615_ChangeCommentsTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_105141_ChangePortpholiosTable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/seeds/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/apple-touch-icon-114x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/apple-touch-icon-144x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/apple-touch-icon-57x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/apple-touch-icon-72x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/beetle-bus-goes-jamba-juice-4 (1).css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/beetle-bus-goes-jamba-juice-4.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/friends-and-foes-2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/hem-5.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/identification-4.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/indian-night-3.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/indian-night-5.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/mfast-3.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/saffron-umbrella-5.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/ultraviolet-rays-1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/view-over-the-town-5.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/cache-custom.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/custom.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/max-width-1024.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/max-width-320.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/max-width-480.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/max-width-768.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/reset.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/darkskin/skin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/darkskin/skin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/defaultskin/skin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/defaultskin/skin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/glass/skin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/glass/skin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/lightskin/skin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/lightskin/skin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/minimal/skin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/minimal/skin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/noskin/skin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/style-minifield.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/thickbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/fonts/fontawesome/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/fonts/fontawesome/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/fonts/fontawesome/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/fonts/fontawesome/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/001-205x185.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/001-386x155.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/001-55x55.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/001-816x282.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/00212-816x282.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/003-205x185.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/003-55x55.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/003-816x282.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/0037-55x55.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/11bfde47f09026a6cfcf8c741b7a28c3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/Fotolia_20568380_Subscription_XXL-94x94.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/Fotolia_24730952_Subscription_XXL-94x94.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/Fotolia_7454857_Subscription_XXL-94x94.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/jasmine1-129x176.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/nicola.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/nicola55.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/ricardo-94x94.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/samuel1-130x176.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/susanna1-130x176.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/thomas1-130x176.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/unknow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/unknow55.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/victor1-130x176.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg-pagination.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg-tabs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/0023.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/019.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/032.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/bgblu.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/tab-price-gradient.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bird-twitter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/button-more-rtl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/button-more.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/buttons.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/callus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/categories.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/cite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/clock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/border.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/controls.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderBottomCenter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderBottomLeft.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderBottomRight.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderMiddleLeft.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderMiddleRight.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderTopCenter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderTopLeft.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderTopRight.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/loading_background.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/overlay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/comments-small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/customposttypewordpress.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/date-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/features/404.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/features/download.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/gradient-call-to-action.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/00111-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/00111.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0022-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0022.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/00313-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/00313.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0058-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0058.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0076-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0076.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0094-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0094.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-vi/00213.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-vi/00315.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-vi/0048.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-vi/dd2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/article.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/author.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/blog1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bookmark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/add.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/check.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/info.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/star.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/calc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/chat.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/cloud.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/comment.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/arrow-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/calc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/cart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/download.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/gift.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/offer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/remove.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/tick.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/heart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/home-85.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/leave-comment.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/alert.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/check.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/error.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/info.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/note.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/next_button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/play.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/prev_button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/project.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/bag32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/bookmark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/box-black.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/box32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/brush-black.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/bubble32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/bulb32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/calendar32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/card-black.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/cart32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/cart48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/case.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/chart-bar (1).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/chart-bar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/chart-line.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/chart32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/checkbox-checked (1).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/checkbox-checked.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/clipboard32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/coffee32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/contact.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/diagram32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/doodles32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/gear32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/gift32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/gift48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/globe32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/info-black.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/info32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/label32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/letter32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/moleskine32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/monitor-black.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/monitor32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/mphone32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/mphone48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/new32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/open32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/open48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/pc32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/pencil32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/phone-black (1).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/phone-black.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/phone32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/pictures32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/refresh32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/shopbag32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/statistics32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/testimonial32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/tick32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/bookmark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/delicious.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/digg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/dribble.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/ember.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/facebook.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/flickr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/forrst.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/google.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/lastfm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/linkedin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/myspace.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/pinterest.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/quora.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/rss.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/skype.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/stumble.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/tumblr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/twitter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/vimeo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/youtube.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/delicious.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/digg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/dribble.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/ember.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/facebook.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/flickr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/forrst.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/google.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/lastfm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/linkedin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/myspace.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/pinterest.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/quora.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/rss.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/skype.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/stumble.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/tumblr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/twitter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/vimeo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/youtube.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/tick20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/zoom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/ie_overlay_82.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/illustrator.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/input_pattern.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/input_pattern_hover.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/landing-header1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/menu-select-arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/phone-call-to-action.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/btnNext.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/btnPrevious.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/contentPattern.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/btnNext.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/btnPrevious.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/contentPattern.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/default_thumbnail.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/default_thumb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite_next.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite_prev.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite_x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite_y.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/btnNext.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/btnPrevious.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/contentPatternBottom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/contentPatternLeft.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/contentPatternRight.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/contentPatternTop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/default_thumbnail.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/btnNext.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/btnPrevious.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/btnNext.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/btnPrevious.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/default_thumbnail.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.bg.signup.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.no.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.readmore.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.single.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.unlim.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.yes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0011-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0011-320x154.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0011.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0012-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0012.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0013-260x168.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0013.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0027-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0027-770x368.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0027.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0028-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0028.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0029-260x168.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0029.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/00311-150x150.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/00311-300x111.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/00311.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0034-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0034-770x368.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0034.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0035-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0035.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0038-260x168.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0038.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0043-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0043-770x368.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0043.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0045-260x168.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0045.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0052-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0052-770x368.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0052.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0054-260x168.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0054.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0061-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0061-320x154.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0061-770x368.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0061.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0063-260x168.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0063.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0071-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0071-320x154.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0071-770x368.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0071.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0072-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0072.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0073-260x168.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0073.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-320x154.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-385x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-700x345.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-770x368.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0082-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0082.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0083-260x168.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0083.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/009-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/009-320x154.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/009-770x368.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/009.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0091-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0091.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0092-260x168.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0092.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/resp1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/WEB1-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/adv1-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/deisgn-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/editing1-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/foto-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/print-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/sezioneaurea.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/shadows/bg-shadow-boxed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/shadows/shadow-938.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/shadows/thumb-testimonial.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/00314.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/cycle-fixed.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/cycle1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/cycle2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/cycle3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/dd.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/widget-area.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/xx.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/dolce11-150x59.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/dolce11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/elastic-slider-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/love1-150x59.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/love1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/red-passion1-150x59.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/red-passion1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/sci11-150x59.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/sci11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/xx21-150x59.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/xx21.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-flex/0018.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-flex/0031.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-flex/0033.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-flex/bg_direction_nav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/011.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/021.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/031.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/033.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/041.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/043.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/051.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/052.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/053.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/055.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/062.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/064.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/071.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/072.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/074.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/081.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/091.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/101.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/bg1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/bg2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/layer-fixed.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/001-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/001.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0019-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0019.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0024-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0024.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0026-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0026.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/002b.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/00310-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/00310.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0032-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0032.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0042-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0042.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0047-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0047.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/005-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/005.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0057-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0057.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/006-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/006.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0065-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0065.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/007-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/007.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0075-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0075.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/008-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/008.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0085-60x60.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0085.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/008b.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/plus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/slider-thumbnails-arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/white-opacity-80.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/tipsy.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/twitter-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/1-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/1-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/2-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/2-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/3-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/3-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/42-175x175.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/42-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/53-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/6-365x192.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/woman.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/comment-reply.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/contact.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.anythingslider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.aw-showcase.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.colorbox-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.custom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.cycle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.easing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.eislideshow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.flexslider-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.mobilemenu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.prettyPhoto.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.quicksand.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.tipsy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.tweetable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/layerslider.kreaturamedia.jquery-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/myscripts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/projects.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/shortcodes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/slider-layer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/testimonials.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/web.config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/auth.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/pagination.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/passwords.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/ru.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/validation.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/comment.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/content.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/footer.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/index.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/indexbar.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/layouts/site.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/menuItems.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/mspostBar.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/mspost_content.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/mspost_singl.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/msposts.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/navigation.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/rightBar.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/slider.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/emails/password.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/laravel-menu/bootstrap-navbar-items.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/ExampleTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MspostController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MspostController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="659">
+              <caret line="78" column="87" lean-forward="true" selection-start-line="78" selection-start-column="87" selection-end-line="78" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MspostRepositories.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Repositories/MspostRepositories.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mspost_singl.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/mspost_singl.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="76" column="95" lean-forward="false" selection-start-line="76" selection-start-column="95" selection-end-line="76" selection-end-column="95" />
+              <folding>
+                <marker date="1557683596793" expanded="true" signature="153:160" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="344:360" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="472:493" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="473:491" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="514:528" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="514:533" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="652:686" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="732:766" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="928:944" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="963:984" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1057:1120" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1058:1119" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1151:1179" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1152:1179" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1204:1231" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1378:1435" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1441:1495" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1623:1624" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1623:1638" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="1624:1638" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="3941:3967" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="3980:4034" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="4064:4093" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="4216:4241" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="4264:4274" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="4352:4399" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="4958:4982" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="5038:5054" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="5821:5835" ph="..." />
+                <marker date="1557683596793" expanded="true" signature="5933:5946" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/layouts/site.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2750">
+              <caret line="125" column="29" lean-forward="false" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+              <folding>
+                <marker date="1557680955213" expanded="true" signature="750:784" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="827:859" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="878:892" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="991:1012" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="1087:1108" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="1325:1346" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="1500:1521" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="1673:1694" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="1853:1874" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="2015:2036" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="2146:2167" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="2274:2295" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="2438:2459" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="2600:2621" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="2762:2783" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="2945:2966" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="3078:3099" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="3206:3227" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="3335:3356" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="3463:3484" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="3852:3873" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="3997:4018" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4087:4108" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4184:4205" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4284:4305" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4380:4401" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4482:4503" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4582:4603" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4687:4708" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4789:4810" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4886:4907" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="4991:5012" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="5093:5114" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="5213:5234" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="5307:5328" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="5423:5444" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="5523:5544" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="5654:5722" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="6109:6130" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="6792:6804" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="7052:7061" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="7184:7208" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="7313:7322" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="7423:7428" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="7665:7673" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="7811:7832" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="7904:7925" ph="..." />
+                <marker date="1557680955213" expanded="true" signature="7991:8012" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/JMTHEME/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18722">
+              <caret line="851" column="2" lean-forward="false" selection-start-line="851" selection-start-column="2" selection-end-line="851" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myscripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/JMTHEME/js/myscripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommnentController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CommnentController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+              <folding>
+                <element signature="e#42#70#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comment.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/comment.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <folding>
+                <marker date="1557653340648" expanded="true" signature="9:24" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="51:62" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="88:150" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="182:193" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="435:442" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="531:563" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="849:929" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="1115:1128" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="1318:1329" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="1347:1358" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="1397:1416" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="1620:1642" ph="..." />
+                <marker date="1557653340648" expanded="true" signature="1703:1755" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mspost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Mspost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_r</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/layouts/navigation.blade.php" />
+        <option value="$PROJECT_DIR$/Repositories/HMenuRepositories.php" />
+        <option value="$PROJECT_DIR$/Repositories/Repository.php" />
+        <option value="$PROJECT_DIR$/app/HMenu.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/HMenuRepositories.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/navigation.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/menuItems.blade.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/SliderRepositorys.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/slider.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PortfolioController.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/PortpholioRepositories.php" />
+        <option value="$PROJECT_DIR$/app/Portpholio.php" />
+        <option value="$PROJECT_DIR$/storage/framework/views/8357abf2205d5f7e61d0847b200fc23f86777f77.php" />
+        <option value="$PROJECT_DIR$/storage/framework/views/ef6535ef2738005a8681f3568953634c9c2e4b20.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/mspostRepositories.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/rightBar.blade.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/content.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/indexbar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/footer.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/mspost.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/app/Category.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+        <option value="$PROJECT_DIR$/storage/framework/views/b6be4419c47cc53e6c49617f4ab5afe22c9d58ec.php" />
+        <option value="$PROJECT_DIR$/resources/lang/ru/pagination.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/msposts.blade.php" />
+        <option value="$PROJECT_DIR$/config/settings.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/ComentRepositories.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/CommentRepositories.php" />
+        <option value="$PROJECT_DIR$/resources/lang/ru/ru.php" />
+        <option value="$PROJECT_DIR$/app/Comment.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/mspostBar.blade.php" />
+        <option value="$PROJECT_DIR$/app/Mspost.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/mspost_content.blade.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/Repository.php" />
+        <option value="$PROJECT_DIR$/app/Categorie.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/MspostRepositories.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/MspostController.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/comment.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/layouts/site.blade.php" />
+        <option value="$PROJECT_DIR$/public/JMTHEME/style.css" />
+        <option value="$PROJECT_DIR$/public/JMTHEME/js/myscripts.js" />
+        <option value="$PROJECT_DIR$/resources/views/JMTHEME/mspost_singl.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CommnentController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/lavary/laravel-menu" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="22" />
+    <option name="y" value="-820" />
+    <option name="width" value="1280" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="HMen&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPANEL\OSPanel\domains\JMBlogs\resources\lang\ru" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPANEL\OSPanel\domains\JMBlogs\resources\views\JMTHEME" />
+      <recent name="D:\OSPANEL\OSPanel\domains\JMBlogs" />
+      <recent name="D:\OSPANEL\OSPanel\domains\JMBlogs\public\JMTHEME" />
+      <recent name="D:\OSPANEL\OSPanel\domains\JMBlogs\resources\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="321c2357-1901-4a5f-9371-8a78a10d345d" name="Default" comment="" />
+      <created>1556265613564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556265613564</updated>
+      <workItem from="1556265617111" duration="58619000" />
+      <workItem from="1556700530247" duration="16409000" />
+      <workItem from="1556776822007" duration="2785000" />
+      <workItem from="1556789348294" duration="855000" />
+      <workItem from="1556804422361" duration="45780000" />
+      <workItem from="1557162540456" duration="48661000" />
+      <workItem from="1557513001907" duration="15085000" />
+      <workItem from="1557599971259" duration="4676000" />
+      <workItem from="1557649680690" duration="16256000" />
+      <workItem from="1557764043824" duration="1178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="210304000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="27" y="-1032" width="1296" height="1040" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2837109" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21281646" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MY_COMMITS" value="false" />
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/database/migrations/2019_04_26_091416_CreateSlidersTable.php</url>
+          <line>5</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/storage/framework/views/8357abf2205d5f7e61d0847b200fc23f86777f77.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/framework/views/ef6535ef2738005a8681f3568953634c9c2e4b20.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PortfolioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/framework/views/3d8f58ddd152be3b4587196ff84e7850775fb061.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/ru/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="65" column="6" lean-forward="false" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/menuItems.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Category.php" />
+    <entry file="file://$PROJECT_DIR$/app/Repositories/PortpholioRepositories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="57" column="36" lean-forward="false" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/framework/views/b6be4419c47cc53e6c49617f4ab5afe22c9d58ec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/ru/pagination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/HMenuRepositories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../the-pink-rio/blog-big-image.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="373" column="24" lean-forward="false" selection-start-line="373" selection-start-column="24" selection-end-line="373" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/CommentRepositories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/ru/ru.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/navigation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/slider.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="7" column="152" lean-forward="false" selection-start-line="7" selection-start-column="152" selection-end-line="7" selection-end-column="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/content.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/mspostBar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/rightBar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../the-pink-rio/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="216" column="0" lean-forward="false" selection-start-line="216" selection-start-column="0" selection-end-line="344" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/indexbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/mspost_content.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/msposts.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Categorie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="59" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Pfilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Portpholio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/Repository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="46" lean-forward="false" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Mspost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/MspostRepositories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/JMTHEME/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18722">
+          <caret line="851" column="2" lean-forward="false" selection-start-line="851" selection-start-column="2" selection-end-line="851" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/layouts/site.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="125" column="29" lean-forward="false" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+          <folding>
+            <marker date="1557680955213" expanded="true" signature="750:784" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="827:859" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="878:892" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="991:1012" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="1087:1108" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="1325:1346" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="1500:1521" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="1673:1694" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="1853:1874" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="2015:2036" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="2146:2167" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="2274:2295" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="2438:2459" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="2600:2621" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="2762:2783" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="2945:2966" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="3078:3099" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="3206:3227" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="3335:3356" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="3463:3484" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="3852:3873" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="3997:4018" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4087:4108" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4184:4205" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4284:4305" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4380:4401" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4482:4503" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4582:4603" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4687:4708" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4789:4810" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4886:4907" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="4991:5012" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="5093:5114" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="5213:5234" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="5307:5328" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="5423:5444" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="5523:5544" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="5654:5722" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="6109:6130" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="6792:6804" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="7052:7061" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="7184:7208" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="7313:7322" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="7423:7428" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="7665:7673" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="7811:7832" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="7904:7925" ph="..." />
+            <marker date="1557680955213" expanded="true" signature="7991:8012" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/JMTHEME/js/myscripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/comment.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <marker date="1557653340648" expanded="true" signature="9:24" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="51:62" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="88:150" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="182:193" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="435:442" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="531:563" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="849:929" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="1115:1128" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="1318:1329" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="1347:1358" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="1397:1416" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="1620:1642" ph="..." />
+            <marker date="1557653340648" expanded="true" signature="1703:1755" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CommnentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/JMTHEME/mspost_singl.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="76" column="95" lean-forward="false" selection-start-line="76" selection-start-column="95" selection-end-line="76" selection-end-column="95" />
+          <folding>
+            <marker date="1557683596793" expanded="true" signature="153:160" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="344:360" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="472:493" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="473:491" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="514:528" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="514:533" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="652:686" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="732:766" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="928:944" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="963:984" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1057:1120" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1058:1119" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1151:1179" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1152:1179" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1204:1231" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1378:1435" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1441:1495" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1623:1624" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1623:1638" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="1624:1638" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="3941:3967" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="3980:4034" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="4064:4093" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="4216:4241" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="4264:4274" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="4352:4399" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="4958:4982" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="5038:5054" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="5821:5835" ph="..." />
+            <marker date="1557683596793" expanded="true" signature="5933:5946" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MspostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="78" column="87" lean-forward="true" selection-start-line="78" selection-start-column="87" selection-end-line="78" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
