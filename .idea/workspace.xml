@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/resources/views/JMTHEME/layouts/site.blade.php" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321c2357-1901-4a5f-9371-8a78a10d345d" name="Default" comment="Созданы&#10;CommentController для коментов в странице публикации&#10;route для коментов в странице публикации&#10;mspost_singl.blade&#10;Myscript.js для отправки  JSON запроса - не работает">
+    <list default="true" id="321c2357-1901-4a5f-9371-8a78a10d345d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +37,8 @@
       <file leaf-file-name="MspostController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MspostController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+            <state relative-caret-position="351">
+              <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -610,7 +610,7 @@
       <workItem from="1557513001907" duration="15085000" />
       <workItem from="1557599971259" duration="4676000" />
       <workItem from="1557649680690" duration="16256000" />
-      <workItem from="1557764043824" duration="3349000" />
+      <workItem from="1557764043824" duration="3371000" />
     </task>
     <task id="LOCAL-00001" summary="Созданы&#10;CommentController для коментов в странице публикации&#10;route для коментов в странице публикации&#10;mspost_singl.blade&#10;Myscript.js для отправки  JSON запроса - не работает">
       <created>1557767162777</created>
@@ -619,11 +619,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557767162777</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Созданы&#10;CommentController для коментов в странице публикации&#10;route для коментов в странице публикации&#10;mspost_singl.blade&#10;Myscript.js для отправки  JSON запроса - не работает">
+      <created>1557767491250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557767491250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212475000" />
+    <option name="totallyTimeSpent" value="212497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="-1032" width="1296" height="1040" extended-state="6" />
@@ -1178,8 +1185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MspostController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+        <state relative-caret-position="351">
+          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
           <folding />
         </state>
       </provider>
