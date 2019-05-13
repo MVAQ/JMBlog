@@ -28,3 +28,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 "# JMBlog"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/MVAQ/JMBlog.git git push -u origin master
 "# JMBlog"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/MVAQ/JMBlog.git git push -u origin master
 # JMBlog
+# JMBlog
