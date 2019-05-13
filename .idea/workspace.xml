@@ -4,642 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/resources/views/JMTHEME/layouts/site.blade.php" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321c2357-1901-4a5f-9371-8a78a10d345d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.env.example" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/JMBlogs.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Categorie.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Comment.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Events/Event.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/HMenu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/MspostController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/PortfolioController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Jobs/Job.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Listeners/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Mspost.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Pfilter.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Policies/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Portpholio.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/CommentRepositories.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/HMenuRepositories.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/MspostRepositories.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/PortpholioRepositories.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/Repository.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/SliderRepositorys.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Slider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/User.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/artisan" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/cache.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/compile.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/filesystems.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/laravel-menu/settings.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/laravel-menu/views.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/mail.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/queue.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/services.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/session.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/settings.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/view.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/factories/ModelFactory.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_084709_CreateMSPostsTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_085607_CreatePortpholiosTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_090302_CreatePfiltersTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_090605_CreateCommentsTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_091416_CreateSlidersTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_091658_CreateHeadMenusTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_091910_CreateCategoriesTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_092834_ChangeMSPostsTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_100615_ChangeCommentsTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2019_04_26_105141_ChangePortpholiosTable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/seeds/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/apple-touch-icon-114x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/apple-touch-icon-144x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/apple-touch-icon-57x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/apple-touch-icon-72x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/beetle-bus-goes-jamba-juice-4 (1).css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/beetle-bus-goes-jamba-juice-4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/friends-and-foes-2.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/hem-5.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/identification-4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/indian-night-3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/indian-night-5.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/mfast-3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/saffron-umbrella-5.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/ultraviolet-rays-1.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/buttons/view-over-the-town-5.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/cache-custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/max-width-1024.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/max-width-320.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/max-width-480.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/max-width-768.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/darkskin/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/darkskin/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/defaultskin/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/defaultskin/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/glass/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/glass/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/lightskin/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/lightskin/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/minimal/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/minimal/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/skins/noskin/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/style-minifield.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/css/thickbox.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/fonts/fontawesome/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/fonts/fontawesome/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/fonts/fontawesome/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/fonts/fontawesome/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/001-205x185.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/001-386x155.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/001-55x55.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/001-816x282.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/00212-816x282.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/003-205x185.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/003-55x55.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/003-816x282.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/articles/0037-55x55.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/11bfde47f09026a6cfcf8c741b7a28c3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/Fotolia_20568380_Subscription_XXL-94x94.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/Fotolia_24730952_Subscription_XXL-94x94.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/Fotolia_7454857_Subscription_XXL-94x94.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/jasmine1-129x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/nicola.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/nicola55.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/ricardo-94x94.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/samuel1-130x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/susanna1-130x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/thomas1-130x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/unknow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/unknow55.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/avatar/victor1-130x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg-pagination.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg-tabs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/0023.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/019.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/032.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/bgblu.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bg/tab-price-gradient.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/bird-twitter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/button-more-rtl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/button-more.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/buttons.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/callus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/categories.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/cite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/clock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/border.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/controls.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderBottomCenter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderBottomLeft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderBottomRight.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderMiddleLeft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderMiddleRight.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderTopCenter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderTopLeft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/ie6/borderTopRight.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/loading_background.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/colorbox/overlay.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/comments-small.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/customposttypewordpress.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/date-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/features/404.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/features/download.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/gradient-call-to-action.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/00111-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/00111.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0022-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0022.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/00313-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/00313.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0058-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0058.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0076-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0076.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0094-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-ix/0094.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-vi/00213.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-vi/00315.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-vi/0048.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/home-vi/dd2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/article.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/author.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/blog1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bookmark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/add.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/check.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/info.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/bullet/star.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/calc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/chat.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/cloud.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/comment.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/arrow-left.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/calc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/cart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/download.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/gift.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/offer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/remove.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/for_button/tick.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/home-85.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/leave-comment.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/alert.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/check.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/error.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/info.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/message/note.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/next_button.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/play.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/prev_button.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/project.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/bag32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/bookmark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/box-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/box32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/brush-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/bubble32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/bulb32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/calendar32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/card-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/cart32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/cart48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/case.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/chart-bar (1).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/chart-bar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/chart-line.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/chart32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/checkbox-checked (1).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/checkbox-checked.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/clipboard32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/coffee32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/contact.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/diagram32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/doodles32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/gear32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/gift32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/gift48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/globe32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/info-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/info32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/label32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/letter32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/moleskine32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/monitor-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/monitor32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/mphone32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/mphone48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/new32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/open32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/open48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/pc32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/pencil32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/phone-black (1).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/phone-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/phone32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/pictures32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/refresh32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/shopbag32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/statistics32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/testimonial32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/set_icons/tick32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/bookmark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/delicious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/digg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/dribble.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/ember.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/facebook.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/flickr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/forrst.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/google.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/lastfm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/linkedin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/myspace.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/pinterest.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/quora.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/rss.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/skype.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/stumble.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/tumblr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/twitter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/vimeo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/small-socials/youtube.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/delicious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/digg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/dribble.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/ember.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/facebook.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/flickr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/forrst.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/google.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/lastfm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/linkedin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/myspace.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/pinterest.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/quora.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/rss.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/skype.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/stumble.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/tumblr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/twitter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/vimeo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/socials/youtube.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/tick20.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/icons/zoom.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/ie_overlay_82.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/illustrator.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/input_pattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/input_pattern_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/landing-header1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/menu-select-arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/phone-call-to-action.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/contentPattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_rounded/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/contentPattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/dark_square/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/default_thumb.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite_next.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite_prev.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite_x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/default/sprite_y.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/contentPatternRight.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/contentPatternTop.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/facebook/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_rounded/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/prettyPhoto/light_square/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.bg.signup.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.no.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.readmore.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.single.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.unlim.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/price.yes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0011-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0011-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0011.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0012-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0012.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0013-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0013.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0027-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0027-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0027.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0028-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0028.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0029-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0029.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/00311-150x150.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/00311-300x111.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/00311.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0034-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0034-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0034.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0035-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0035.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0038-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0038.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0043-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0043-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0043.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0045-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0045.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0052-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0052-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0052.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0054-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0054.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0061-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0061-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0061-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0061.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0063-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0063.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0071-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0071-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0071-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0071.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0072-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0072.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0073-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0073.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-385x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-700x345.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0081.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0082-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0082.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0083-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0083.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/009-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/009-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/009-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/009.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0091-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0091.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0092-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/projects/0092.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/resp1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/WEB1-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/adv1-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/deisgn-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/editing1-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/foto-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/services/print-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/sezioneaurea.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/shadows/bg-shadow-boxed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/shadows/shadow-938.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/shadows/thumb-testimonial.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/00314.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/cycle-fixed.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/cycle1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/cycle2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/cycle3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/dd.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/default.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/widget-area.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-cycle/xx.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/dolce11-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/dolce11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/elastic-slider-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/love1-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/love1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/red-passion1-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/red-passion1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/sci11-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/sci11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/xx21-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-elastic/xx21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-flex/0018.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-flex/0031.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-flex/0033.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-flex/bg_direction_nav.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/011.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/021.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/031.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/033.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/041.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/043.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/051.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/052.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/053.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/055.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/062.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/064.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/071.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/072.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/074.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/08.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/081.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/09.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/091.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/101.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/bg1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/bg2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-layer/layer-fixed.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/001-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/001.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0019-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0019.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0024-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0024.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0026-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0026.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/002b.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/00310-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/00310.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0032-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0032.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0042-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0042.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0047-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0047.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/005-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/005.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0057-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0057.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/006-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/006.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0065-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/007-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0075-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0075.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/008-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/008.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0085-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/0085.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/008b.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/plus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/slider-thumbnails-arrows.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/slider-thumbnails/white-opacity-80.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/tipsy.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/twitter-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/1-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/1-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/2-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/2-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/3-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/3-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/42-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/42-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/53-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/videos/6-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/images/woman.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/comment-reply.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/contact.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.anythingslider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.aw-showcase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.colorbox-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.custom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.cycle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.easing.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.eislideshow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.flexslider-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.mobilemenu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.prettyPhoto.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.quicksand.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.tipsy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/jquery.tweetable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/layerslider.kreaturamedia.jquery-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/myscripts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/projects.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/shortcodes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/slider-layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/js/testimonials.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/JMTHEME/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/web.config" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/pagination.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/passwords.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/ru.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/validation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/comment.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/content.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/footer.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/index.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/indexbar.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/layouts/site.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/menuItems.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/mspostBar.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/mspost_content.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/mspost_singl.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/msposts.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/navigation.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/rightBar.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/JMTHEME/slider.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/emails/password.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/laravel-menu/bootstrap-navbar-items.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/ExampleTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
+    <list default="true" id="321c2357-1901-4a5f-9371-8a78a10d345d" name="Default" comment="Созданы&#10;CommentController для коментов в странице публикации&#10;route для коментов в странице публикации&#10;mspost_singl.blade&#10;Myscript.js для отправки  JSON запроса - не работает">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -672,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MspostController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="659">
-              <caret line="78" column="87" lean-forward="true" selection-start-line="78" selection-start-column="87" selection-end-line="78" selection-end-column="87" />
+              <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -880,6 +246,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1038,7 +409,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1051,7 +422,141 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Providers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Repositories" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JMTHEME" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JMTHEME" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JMTHEME" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JMTHEME" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JMBlogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JMBlogs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1105,12 +610,20 @@
       <workItem from="1557513001907" duration="15085000" />
       <workItem from="1557599971259" duration="4676000" />
       <workItem from="1557649680690" duration="16256000" />
-      <workItem from="1557764043824" duration="1178000" />
+      <workItem from="1557764043824" duration="3349000" />
     </task>
+    <task id="LOCAL-00001" summary="Созданы&#10;CommentController для коментов в странице публикации&#10;route для коментов в странице публикации&#10;mspost_singl.blade&#10;Myscript.js для отправки  JSON запроса - не работает">
+      <created>1557767162777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557767162777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210304000" />
+    <option name="totallyTimeSpent" value="212475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="-1032" width="1296" height="1040" extended-state="6" />
@@ -1123,7 +636,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21281646" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20703125" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1174,6 +687,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Созданы&#10;CommentController для коментов в странице публикации&#10;route для коментов в странице публикации&#10;mspost_singl.blade&#10;Myscript.js для отправки  JSON запроса - не работает" />
+    <option name="LAST_COMMIT_MESSAGE" value="Созданы&#10;CommentController для коментов в странице публикации&#10;route для коментов в странице публикации&#10;mspost_singl.blade&#10;Myscript.js для отправки  JSON запроса - не работает" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1291,6 +808,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1403,6 +921,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-418">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1410,6 +929,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <marker date="1557253357220" expanded="true" signature="9:37" ph="..." />
+            <marker date="1557253357220" expanded="true" signature="49:61" ph="..." />
+            <marker date="1557253357220" expanded="true" signature="70:83" ph="..." />
+            <marker date="1557253357220" expanded="true" signature="109:118" ph="..." />
+            <marker date="1557253357220" expanded="true" signature="127:137" ph="..." />
+            <marker date="1557253357220" expanded="true" signature="163:168" ph="..." />
+            <marker date="1557253357220" expanded="true" signature="177:187" ph="..." />
+            <marker date="1557253357220" expanded="true" signature="177:188" ph="..." />
+            <marker date="1557253357220" expanded="true" signature="214:222" ph="..." />
+            <marker date="1557253357220" expanded="true" signature="231:240" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1417,6 +948,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1424,6 +956,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="59" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1431,6 +964,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1438,6 +972,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1445,6 +980,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1452,6 +988,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1459,6 +996,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1466,6 +1004,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
           <caret line="41" column="46" lean-forward="false" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1640,7 +1179,7 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MspostController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="659">
-          <caret line="78" column="87" lean-forward="true" selection-start-line="78" selection-start-column="87" selection-end-line="78" selection-end-column="87" />
+          <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
           <folding />
         </state>
       </provider>
